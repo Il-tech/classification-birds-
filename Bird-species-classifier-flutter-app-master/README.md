@@ -11,5 +11,5 @@ Flutter app that detects the species of the bird
   &nbsp&nbsp&nbsp&nbsp
   <img src="https://github.com/Il-tech/classification-birds-/tree/master/Bird-species-classifier-flutter-app-master/images/2.jpeg" width="260" />
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/Il-tech/classification-birds-/tree/master/Bird-species-classifier-flutter-app-master/images/3.jpg" width="260" />
+  <img src="https://github.com/Il-tech/classification-birds-/tree/master/Bird-species-classifier-flutter-app-master/images/3.jpeg" width="260" />
 </p>
